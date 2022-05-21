@@ -156,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653008743388</updated>
       <workItem from="1653008745684" duration="2951000" />
-      <workItem from="1653098116780" duration="234000" />
+      <workItem from="1653098116780" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="准备阶段">
       <created>1653098295397</created>
@@ -165,11 +165,41 @@
       <option name="project" value="LOCAL" />
       <updated>1653098295397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="准备阶段">
+      <created>1653098514159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653098514159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="准备阶段" />
